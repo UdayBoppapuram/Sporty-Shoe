@@ -61,7 +61,7 @@ How to run the program
 • clone project
 
 o clone git : git clone https://github.com/UdayBoppapuram/sporty-shoe
-1
+
 
 • Import the “main\webapp\resources\database\sporty-shoes.sql” file to your database administration tool.
 
